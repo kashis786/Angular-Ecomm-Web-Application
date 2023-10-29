@@ -1,0 +1,40 @@
+{
+  "seller": [
+    {
+      "username": "kashif",
+      "email": "kashif@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "username": "kami123",
+      "email": "alizakhan306@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "mkashif",
+      "email": "kashi@gamil.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "username": "dddf",
+      "email": "dsdds",
+      "password": "ddddd",
+      "id": 6
+    }
+  ]
+}
