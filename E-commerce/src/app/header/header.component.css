@@ -1,0 +1,52 @@
+.heading-component{
+    background-image: url('../../assets/image/1.webp');
+ /* Replace with your image URL */
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.navigation-bar{
+    
+    margin-left: 600px;
+
+    
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.navigation-bar ul{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    color: azure;
+    background-color: rgb(22, 21, 21);
+    font-size: large;
+    height: 50px;
+    padding-top: 10px;
+    padding-right: 5px;
+    
+}
+.navigation-bar ul :hover{
+    cursor: pointer;
+}
+.navigation-bar ul a{
+    font-weight: bold;
+    text-decoration: none;
+    color: aliceblue;
+}
+.heading-items{
+    margin-top: 100px;
+    margin-left: 400px;
+    font-size: 32px;
+    font-weight: 300;
+    padding-left: 300px;
+    margin-bottom: 2px;
+}
+.heading-items h2{
+    font-weight: bold;
+}
+.heading-component p{
+    font-size: 20px;
+    
+    width: px;
+}

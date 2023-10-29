@@ -1,0 +1,49 @@
+.seaction-4{
+    display: flex;
+    margin-top: 130px;
+}
+.section-1{
+    width: 33%;
+    height: 300px;
+    background-image: url('../../assets/image/bags.webp');
+
+}
+.sec{
+    padding-top: 30px;
+}
+.section-1 h3{
+    padding-left: 30px;
+    font-weight: bolder;
+}
+.section-2{
+    background-image:url('../../assets/image/watches.webp');
+    width: 463px;
+    height: 300px;
+}
+.section-2 h3{
+    padding-left: 70px;
+    font-size: xx-large;
+    padding-top: 74px;
+    font-weight: 900;
+}
+.section-2 h1{
+    font-size: 40px;
+    margin-left: 177px;
+    color: aliceblue;
+    font-weight: 900;
+}
+.sec1{
+    padding-top: 76px;
+}
+.section-3{
+    width: 33%;
+    height: 300px;
+    background-image:url('../../assets/image/shoess.webp');
+    
+}
+.section-3 h3{
+    padding-left: 20px;
+    padding-top: 250px;
+    letter-spacing: 2px;
+    font-weight: 900;
+}

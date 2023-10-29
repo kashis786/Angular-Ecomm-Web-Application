@@ -1,0 +1,125 @@
+
+.section-11{
+    margin-top: 32px;
+    display: flex;
+    margin-top: 300px !;
+}
+
+.sidebar-image{
+    background-image: url('../../assets/image/banner.webp');
+    margin-left: 99px;
+    width: 380px;
+    height: 580px;
+    
+}
+
+.sidebar-image a{
+    transform: rotate(90deg); /* Rotate 90 degrees clockwise (horizontally) */
+    
+}
+.sidebar-image h4{
+    transform: rotate(90deg); /* Rotate 90 degrees clockwise (horizontally) */
+    transform-origin: left bottom; /* Optional: Set the rotation origin */
+    white-space: nowrap;
+    margin-left: 347px;
+    padding-top: 30px;
+    margin-top: 65px;
+    font-size: 19px;
+}
+.sidebar-image h3{
+    transform: rotate(90deg); /* Rotate 90 degrees clockwise (horizontally) */
+    /* Optional: Set the rotation origin */
+    white-space: nowrap;
+    margin-left: 300px;
+    font-weight: 800;
+    margin-top: 14px;
+    font-size: 27px;
+    margin-right: 20px;
+}
+.sidebar-image a{
+    text-decoration: none;
+    transform: rotate(90deg);
+    text-decoration: none;
+}
+.sidebar-image img{
+    width: 283px;
+    height: 436px;
+    
+
+}
+
+.center-images{
+    background-image: url('../../assets/image/mens.webp');
+    margin-left: 20px;
+    width: 486px;
+    height: 290px;
+}
+
+.center-images  h3{
+    padding-right: 47px;
+    text-align: end;
+}
+.center-images h2{
+    margin-top: 95px;
+    padding-right: 60px;
+    text-align: end;
+    font-weight: 900;
+}
+.center-images h4{
+    text-align: end;
+    
+    padding-right: 47px;
+}
+.right-images{
+    background-image: url('../../assets/image/shoes.webp');
+    margin-left: 20px;
+    width: 288px;
+    height: 290px;
+}
+.right-images h2{
+    padding-top: 85px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+.right-images h3{
+    padding-left: 22    px;
+    line-height: 24px;
+    margin-left: 28px;
+}
+.bags{
+    position: absolute;
+    width: 267px;
+    height: 283px;
+    margin-left: 37%;
+    margin-top: 22%;
+    background-image: url('../../assets/image/bag.webp');
+}
+.bags h2{
+    margin-left: 89px;
+    padding-top: 157px;
+    line-height: 9px;
+    font-weight: 700;
+}
+.bags h3{
+    padding-left: 87px;
+}
+.kids{
+    margin-left: 58%;
+    margin-top: 299px;
+    width: 513px;
+    height: 287px;
+    position: absolute;
+    background-image: url('../../assets/image/5.webp');
+}
+.kids h2{
+    margin-left: 39%;
+    padding-top: 138px;
+    font-weight: bold;
+}
+.kids h3{
+    padding-left: 164px;
+    line-height: 10px;
+
+}
+
+/*  */
